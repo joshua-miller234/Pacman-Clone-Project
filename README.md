@@ -21,3 +21,6 @@ There two heuristics used by the A* algorithm. The first is used by Blinky (red 
 
 
 [Pacman Project Presentation.pptx](https://github.com/user-attachments/files/16789961/Pacman.Project.Presentation.pptx)
+
+
+[ReadMe.docx](https://github.com/user-attachments/files/16789998/ReadMe.docx)
