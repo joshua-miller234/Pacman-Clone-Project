@@ -19,3 +19,5 @@ Heuristics:
 
 There two heuristics used by the A* algorithm. The first is used by Blinky (red ghost) and is the distance formula, the direct diagonal distance from current position to target. The second heuristic is used by Inky (teal ghost) and Pinky (pink ghost) and is a calculation of the Manhattan distance from current position to target. Clyde (orange ghost) uses the greedy algorithm.
 
+
+[Pacman Project Presentation.pptx](https://github.com/user-attachments/files/16789961/Pacman.Project.Presentation.pptx)
