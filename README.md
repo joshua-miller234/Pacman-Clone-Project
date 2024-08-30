@@ -11,7 +11,7 @@ The game was made in Pycharm IDE, using the pygame import. If Pycharm is install
 Alternatively, any other method to run the PacmanGame.py file should work. So long as the three files/folders are in the same directory, and the needed imports at the top of PacmanGame.py are installed.
 
 
-A* Algorithm:
+Pathfinding Algorithms:
 
 The main pathfinding algorithm used by the ghosts is the A* algorithm, which is used with two different heuristics, that can path around obstacles directly to the player, and then a simple greedy algorithm that tried to move in the players direction regardless of obstacles. An illustration of which ghosts use which algorithm / heuristic is in the included PowerPoint presentation file. There is also a video demonstration of a level of the game being played included as the last slide of the PowerPoint.
 
